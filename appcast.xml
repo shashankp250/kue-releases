@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KUE Updates (Dev Preview)</title>
+        <item>
+            <title>KUE v0.1.0 (Initial Glass UI)</title>
+            <pubDate>Mon, 08 Mar 2026 23:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <!-- 
+            ================================================================================
+                                                NOTE
+            This is a template! When Story 11 (GitHub Actions CI/CD Pipeline) is implemented,
+            the automated build agent will use the `generate_appcast` utility to correctly
+            hash the .app.zip artifact, inject the sparkle:edSignature signature, and define
+            the correct absolute enclosure URL from the GitHub Release payload.
+            ================================================================================
+            -->
+            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.1.0/KUE.app.zip" length="949269" type="application/octet-stream" sparkle:edSignature="/OLrR3uUGmKRRoOazIOeV1lr60PUwRt7LUfTZY550S4Z47ARdK81QWPmmhHpSAwrJYfYYUGokVcCnbd9noDXBw=="/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
