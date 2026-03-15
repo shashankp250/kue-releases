@@ -16,7 +16,7 @@
             the correct absolute enclosure URL from the GitHub Release payload.
             ================================================================================
             -->
-            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.2.2/KUE.app.zip" length="1530449" type="application/octet-stream" sparkle:edSignature="NA8L0dtueBQibdD1qSyj2lb1fy8UWEvsC2392krLk07XchJuCUDzYS2t722m8ZX9ymlslIvTQt4132peDFkgDg=="/>
+            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.2.3/KUE.app.zip" length="1530328" type="application/octet-stream" sparkle:edSignature="bR4DxkFeNQw7smnn1Ju4qn035UFVcRya19wIVxksIwu1R8yxiPv+N5xic6on2X02s1D/sAjrNoXOvg93phyUBA=="/>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
