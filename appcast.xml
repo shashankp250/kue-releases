@@ -3,12 +3,19 @@
     <channel>
         <title>KUE Updates (Dev Preview)</title>
         <item>
+            <title>KUE v0.3.0 - Phase 2 Development Completion</title>
+            <pubDate>Tue, 17 Mar 2026 05:30:00 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.3.0/KUE.app.zip" length="1777551" type="application/octet-stream" sparkle:edSignature="qPlDDR9BWQSpi9LBjrhJgFmC6/CBJ61rVGYoaELhREbBP+rCGFJzoCuQy62jbtD8Y9I5s1FZAWSrQ1131zGbDA=="/>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>KUE v0.2.5 (Stablized UI &amp; Performance)</title>
             <pubDate>Tue, 17 Mar 2026 04:30:00 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.2.5/KUE.app.zip" length="1776310" type="application/octet-stream" sparkle:edSignature="FR02Hd0ZNAPMSu+bIswUKyZjVffeUseFXeFLJmmgs6kQGYN608aPbc8jDR3cwJokd8CrHOoaBwUpMVJ67tohCQ=="/>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.2.5/KUE.app.zip" sparkle:version="6" sparkle:shortVersionString="0.2.5" length="15000000" type="application/octet-stream" sparkle:edSignature="REPLACE_ME"/>
         </item>
         <item>
             <title>KUE v0.1.0 (Initial Glass UI)</title>
