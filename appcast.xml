@@ -3,11 +3,11 @@
     <channel>
         <title>KUE Updates (Dev Preview)</title>
         <item>
-            <title>KUE v0.2.0 (Critical Bug Fixes &amp; Stealth Enabled)</title>
-            <pubDate>Mon, 17 Mar 2026 00:00:00 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.2.0/KUE.app.zip" length="1775385" type="application/octet-stream" sparkle:edSignature="CUVxGR25c2RSQJ2xwVmFTrg4iiMSgJ/k0ickBz6tEOp1Sf2iJdUg/KGtldeYBW2hpbu4/OvlweXkcH6aqO43Aw=="/>
+            <title>KUE v0.2.5 (Stablized UI &amp; Performance)</title>
+            <pubDate>Tue, 17 Mar 2026 04:30:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.2.5/KUE.app.zip" length="1776310" type="application/octet-stream" sparkle:edSignature="FR02Hd0ZNAPMSu+bIswUKyZjVffeUseFXeFLJmmgs6kQGYN608aPbc8jDR3cwJokd8CrHOoaBwUpMVJ67tohCQ=="/>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
