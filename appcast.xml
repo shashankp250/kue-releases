@@ -7,7 +7,7 @@
             <pubDate>Tue, 17 Mar 2026 05:30:00 +0000</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.3.0/KUE.app.zip" length="1777551" type="application/octet-stream" sparkle:edSignature="qPlDDR9BWQSpi9LBjrhJgFmC6/CBJ61rVGYoaELhREbBP+rCGFJzoCuQy62jbtD8Y9I5s1FZAWSrQ1131zGbDA=="/>
+            <enclosure url="https://github.com/shashankp250/kue-releases/releases/download/v0.4.2/KUE.app.zip" length="1449587" type="application/octet-stream" sparkle:edSignature="fjwaw1hsTFeAIFUO5jvOxD9cwHjZaqWC4W/t4ecWhVK3cbNdL07GlECpSNKS0EYGWIiPDZj6OdMEH6NzrOzcAg=="/>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
